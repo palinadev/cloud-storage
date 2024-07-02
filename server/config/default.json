@@ -1,0 +1,4 @@
+{
+    "serverPort": 5000,
+    "dbUrl": "mongodb+srv://shauna-ex:<password>@cloud-storage.mgiftuh.mongodb.net/"
+}
